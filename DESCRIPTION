@@ -16,3 +16,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/allisonhorst/ahtest
+BugReports: https://github.com/allisonhorst/ahtest/issues
